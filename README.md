@@ -63,7 +63,7 @@ USE_SEAMLESS_CLONE = False  # True = better quality, False = faster
 1. Place `target.jpg` in the project folder.  
 2. Activate `.venv` and run the script:  
    ```bash
-   python faceswap_cam.py
+   python face-swap.py
    ```  
 3. A preview window will open. Press **`q`** to quit.  
 4. In apps like **Zoom, OBS, Google Meet, or Discord**, select the **virtual camera** created by PyVirtualCam.  
